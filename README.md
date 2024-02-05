@@ -1,2 +1,2 @@
 # A python client server example
-## that you can easily extent, have fun
+that you can easily extent, have fun
